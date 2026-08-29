@@ -1,0 +1,61 @@
+about:
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  license: Apache-2.0
+  homepage: https://cert-manager.io
+  head: 689787e
+  archived: false
+  latestVersion: v1.21.1
+  collectedAt: 2026-08-29T07:11:04Z
+timeline:
+  created: 2017-05-24
+  lastCommit: 2026-08-28
+  lastRelease: 2026-07-29
+popularity:
+  star: 14055
+  watcher: 142
+  fork: 2440
+  release: 255
+  contributor: 527
+  pullRequest: 988
+  issue: 3792
+language:
+  Go: 5864492
+  Makefile: 187697
+  Shell: 68971
+  Mustache: 10965
+  Dockerfile: 5477
+  Go Template: 1692
+totalLine: 6139294
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 69
+    openPR: 24
+    closedIssue: 9
+    openIssue: 11
+    commit: 136
+  last90d:
+    since: 2026-05-31
+    release: 6
+    mergedPR: 229
+    openPR: 48
+    closedIssue: 24
+    openIssue: 27
+    commit: 399
+  last180d:
+    since: 2026-03-02
+    release: 11
+    mergedPR: 403
+    openPR: 60
+    closedIssue: 50
+    openIssue: 43
+    commit: 699
+  last360d:
+    since: 2025-09-03
+    release: 24
+    mergedPR: 752
+    openPR: 79
+    closedIssue: 122
+    openIssue: 77
+    commit: 1435
