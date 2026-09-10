@@ -12,42 +12,7 @@ Automatically provision and manage TLS certificates in Kubernetes
 x install cert-manager
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/cert-manager/cert-manager>
-- **Homepage**: <https://cert-manager.io>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `v1.21.1` (2026-07-29)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 2
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [cert-manager.crds.yaml](https://github.com/cert-manager/cert-manager/releases/download/v1.21.1/cert-manager.crds.yaml) | 973.7 KiB | `other` |
-| [cert-manager.yaml](https://github.com/cert-manager/cert-manager/releases/download/v1.21.1/cert-manager.yaml) | 1010.2 KiB | `other` |
-
-## Popularity
-
-- **Stars**: 14,075 · **Forks**: 2,445 · **Open issues**: 3,818 · **Contributors**: 533
-
-## Totals (cumulative)
-
-- **Releases**: 255 · **Merged PRs**: 4176 · **Open PRs**: 99 · **Closed issues**: 3659 · **Open issues**: 159 · **Commits**: 11386
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 131 | 28 | 16 | 18 | 189 |
-| 90d | 2026-06-12 | 5 | 288 | 48 | 31 | 35 | 447 |
-| 360d | 2025-09-15 | 24 | 802 | 83 | 125 | 85 | 1460 |
-
-## Code size
+## Code insight
 
 Total: **218,695** lines of code across **1100** files in the top 5 languages.
 
@@ -69,6 +34,44 @@ Lowest-scoring checks:
 - **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
+## Source
+
+- **Upstream**: <https://github.com/cert-manager/cert-manager>
+- **Homepage**: <https://cert-manager.io>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `v1.21.1` (2026-07-29)
+- **Last commit**: 2026-09-10
+- **Assets in release**: 2
+
+## Popularity
+
+- **Stars**: 14,075 · **Forks**: 2,445 · **Open issues**: 3,819 · **Contributors**: 533
+
+## Totals (cumulative)
+
+- **Releases**: 255 · **Merged PRs**: 4176 · **Open PRs**: 99 · **Closed issues**: 3659 · **Open issues**: 160 · **Commits**: 11386
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 131 | 28 | 16 | 19 | 189 |
+| last60d | 2026-07-12 | 1 | 189 | 40 | 25 | 30 | 289 |
+| 90d | 2026-06-12 | 5 | 288 | 48 | 31 | 36 | 447 |
+| last180d | 2026-03-14 | 10 | 447 | 62 | 57 | 51 | 751 |
+| 360d | 2025-09-15 | 24 | 802 | 83 | 125 | 86 | 1460 |
+| last720d | 2024-09-20 | 50 | 1202 | 95 | 310 | 122 | 2315 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [cert-manager.crds.yaml](https://github.com/cert-manager/cert-manager/releases/download/v1.21.1/cert-manager.crds.yaml) | 973.7 KiB | `other` |
+| [cert-manager.yaml](https://github.com/cert-manager/cert-manager/releases/download/v1.21.1/cert-manager.yaml) | 1010.2 KiB | `other` |
+
 ## Improve this data
 
 Install metadata for cert-manager lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cert-manager` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -78,4 +81,4 @@ Install metadata for cert-manager lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:49:07Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:04:12Z._
