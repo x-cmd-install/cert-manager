@@ -4,7 +4,7 @@
 
 Automatically provision and manage TLS certificates in Kubernetes
 
-![cert-manager](https://repo.x-cmd.io/cert-manager.svg)
+![cert-manager](https://repo.x-cmd.io/cert-manager.svg?lang=zh)
 
 ## 安装
 
@@ -21,33 +21,39 @@ x install cert-manager
 ## 发布
 
 - **最新版本**: `v1.21.1` (2026-07-29)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-07-29T15:36:11Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [cert-manager.crds.yaml](https://github.com/cert-manager/cert-manager/releases/download/v1.21.1/cert-manager.crds.yaml) | 973.7 KiB | `other` |
+| [cert-manager.yaml](https://github.com/cert-manager/cert-manager/releases/download/v1.21.1/cert-manager.yaml) | 1010.2 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 14,073 · **Fork**: 2,445 · **开放 issue**: 3,817 · **贡献者**: 533
+- **Star**: 14,075 · **Fork**: 2,445 · **开放 issue**: 3,818 · **贡献者**: 533
 
 ## 累计统计
 
-- **发布数**: 255 · **已合并 PR**: 4169 · **开放 PR**: 99 · **已关闭 issue**: 3659 · **开放 issue**: 158 · **提交数**: 11383
+- **发布数**: 255 · **已合并 PR**: 4176 · **开放 PR**: 99 · **已关闭 issue**: 3659 · **开放 issue**: 159 · **提交数**: 11386
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 124 | 28 | 16 | 17 | 186 |
-| 90d | 2026-06-12 | 5 | 281 | 48 | 31 | 34 | 444 |
-| 360d | 2025-09-15 | 24 | 795 | 83 | 125 | 84 | 1457 |
+| 30d | 2026-08-11 | 0 | 131 | 28 | 16 | 18 | 189 |
+| 90d | 2026-06-12 | 5 | 288 | 48 | 31 | 35 | 447 |
+| 360d | 2025-09-15 | 24 | 802 | 83 | 125 | 85 | 1460 |
 
 ## 代码规模
 
-合计: **218,635** 行代码（覆盖前 5 种语言、共 **1100** 个文件）。
+合计: **218,695** 行代码（覆盖前 5 种语言、共 **1100** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 180,800 | 34,749 | 20,864 | 938 |
+| Go | 180,860 | 34,750 | 20,870 | 938 |
 | Yaml | 31,873 | 1,452 | 552 | 101 |
 | Json | 2,601 | 0 | 0 | 6 |
 | Makefile | 1,821 | 1,410 | 531 | 33 |
@@ -61,7 +67,7 @@ x install cert-manager
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## 改进这些数据
 
@@ -72,4 +78,4 @@ cert-manager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:11:34Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:49:08Z._
