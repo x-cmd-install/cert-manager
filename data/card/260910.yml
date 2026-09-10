@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.21.1"
   latestRelease: "v1.21.1"
   latestPrerelease: "v1.21.0-beta.0"
-  collectedAt: 2026-09-10T21:03:10Z
+  collectedAt: 2026-09-10T22:46:03Z
 timeline:
   created: 2017-05-24
   lastCommit: 2026-09-10
@@ -20,7 +20,7 @@ popularity:
   fork: 2445
   release: 255
   contributor: 533
-  pullRequest: 5182
+  pullRequest: 5183
   issue: 3819
 language:
   Go: 5989914
@@ -35,7 +35,7 @@ recent:
     since: 2026-08-11
     release: 0
     mergedPR: 131
-    openPR: 28
+    openPR: 29
     closedIssue: 16
     openIssue: 19
     commit: 189
@@ -43,7 +43,7 @@ recent:
     since: 2026-07-12
     release: 1
     mergedPR: 189
-    openPR: 40
+    openPR: 41
     closedIssue: 25
     openIssue: 30
     commit: 289
@@ -51,7 +51,7 @@ recent:
     since: 2026-06-12
     release: 5
     mergedPR: 288
-    openPR: 48
+    openPR: 49
     closedIssue: 31
     openIssue: 36
     commit: 447
@@ -59,7 +59,7 @@ recent:
     since: 2026-03-14
     release: 10
     mergedPR: 447
-    openPR: 62
+    openPR: 63
     closedIssue: 57
     openIssue: 51
     commit: 751
@@ -67,7 +67,7 @@ recent:
     since: 2025-09-15
     release: 24
     mergedPR: 802
-    openPR: 83
+    openPR: 84
     closedIssue: 125
     openIssue: 86
     commit: 1460
@@ -75,20 +75,20 @@ recent:
     since: 2024-09-20
     release: 50
     mergedPR: 1202
-    openPR: 95
+    openPR: 96
     closedIssue: 310
     openIssue: 122
     commit: 2315
 total:
   release: 255
   mergedPR: 4176
-  openPR: 99
+  openPR: 100
   closedIssue: 3659
   openIssue: 160
   commit: 11386
 ---
 path: /home/runner/.x-repo/github.com/cert-manager/cert-manager
-collectedAt: 2026-09-10T21:03:35Z
+collectedAt: 2026-09-10T22:46:17Z
 loc:
   Go:
     code: 180860
