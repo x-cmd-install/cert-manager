@@ -31,8 +31,8 @@ x install cert-manager
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install cert-manager
 ## 发布
 
 - **最新版本**: `v1.21.2` (2026-09-11)
-- **最近提交**: 2026-09-11
+- **最近提交**: 2026-09-12
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 14,076 · **Fork**: 2,447 · **开放 issue**: 3,819 · **贡献者**: 533
+- **Star**: 14,077 · **Fork**: 2,449 · **开放 issue**: 3,819 · **贡献者**: 533
 
 ## 累计统计
 
-- **发布数**: 256 · **已合并 PR**: 4179 · **开放 PR**: 105 · **已关闭 issue**: 3661 · **开放 issue**: 158 · **提交数**: 11391
+- **发布数**: 256 · **已合并 PR**: 4181 · **开放 PR**: 105 · **已关闭 issue**: 3661 · **开放 issue**: 158 · **提交数**: 11395
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 131 | 35 | 17 | 17 | 193 |
-| last60d | 2026-07-13 | 2 | 190 | 47 | 26 | 29 | 293 |
-| 90d | 2026-06-13 | 6 | 288 | 54 | 32 | 35 | 451 |
-| last180d | 2026-03-15 | 11 | 449 | 69 | 58 | 50 | 755 |
-| 360d | 2025-09-16 | 25 | 804 | 89 | 126 | 84 | 1465 |
-| last720d | 2024-09-21 | 51 | 1202 | 101 | 312 | 120 | 2307 |
+| 30d | 2026-08-14 | 1 | 120 | 36 | 16 | 17 | 153 |
+| last60d | 2026-07-15 | 2 | 186 | 47 | 24 | 26 | 274 |
+| 90d | 2026-06-15 | 6 | 288 | 54 | 32 | 34 | 415 |
+| last180d | 2026-03-17 | 11 | 448 | 69 | 57 | 50 | 739 |
+| 360d | 2025-09-18 | 25 | 800 | 89 | 124 | 83 | 1447 |
+| last720d | 2024-09-23 | 51 | 1203 | 101 | 312 | 120 | 2303 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ cert-manager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T20:01:44Z._
+_数据快照: `data/card/260913.yml` · 2026-09-13T05:14:35Z._

@@ -31,8 +31,8 @@ Overall score: **8.4 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.21.2` (2026-09-11)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-12
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,076 · **Forks**: 2,447 · **Open issues**: 3,819 · **Contributors**: 533
+- **Stars**: 14,077 · **Forks**: 2,449 · **Open issues**: 3,819 · **Contributors**: 533
 
 ## Totals (cumulative)
 
-- **Releases**: 256 · **Merged PRs**: 4179 · **Open PRs**: 105 · **Closed issues**: 3661 · **Open issues**: 158 · **Commits**: 11391
+- **Releases**: 256 · **Merged PRs**: 4181 · **Open PRs**: 105 · **Closed issues**: 3661 · **Open issues**: 158 · **Commits**: 11395
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 131 | 35 | 17 | 17 | 193 |
-| last60d | 2026-07-13 | 2 | 190 | 47 | 26 | 29 | 293 |
-| 90d | 2026-06-13 | 6 | 288 | 54 | 32 | 35 | 451 |
-| last180d | 2026-03-15 | 11 | 449 | 69 | 58 | 50 | 755 |
-| 360d | 2025-09-16 | 25 | 804 | 89 | 126 | 84 | 1465 |
-| last720d | 2024-09-21 | 51 | 1202 | 101 | 312 | 120 | 2307 |
+| 30d | 2026-08-14 | 1 | 120 | 36 | 16 | 17 | 153 |
+| last60d | 2026-07-15 | 2 | 186 | 47 | 24 | 26 | 274 |
+| 90d | 2026-06-15 | 6 | 288 | 54 | 32 | 34 | 415 |
+| last180d | 2026-03-17 | 11 | 448 | 69 | 57 | 50 | 739 |
+| 360d | 2025-09-18 | 25 | 800 | 89 | 124 | 83 | 1447 |
+| last720d | 2024-09-23 | 51 | 1203 | 101 | 312 | 120 | 2303 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cert-manager lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:01:44Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:14:34Z._
