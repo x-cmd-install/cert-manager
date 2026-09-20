@@ -4,7 +4,7 @@
 
 Automatically provision and manage TLS certificates in Kubernetes
 
-![cert-manager](https://repo.x-cmd.io/cert-manager.svg)
+[![x-cmd/install — cert-manager Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cert-manager.svg)](https://x-cmd.com/install/cert-manager)
 
 ## Install
 
@@ -14,19 +14,19 @@ x install cert-manager
 
 ## Code insight
 
-Total: **218,513** lines of code across **1101** files in the top 5 languages.
+Total: **218,590** lines of code across **1102** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 180,743 | 34,920 | 20,899 | 940 |
-| Yaml | 31,873 | 1,452 | 552 | 101 |
+| Yaml | 31,950 | 1,452 | 555 | 102 |
 | Json | 2,601 | 0 | 0 | 6 |
 | Makefile | 1,820 | 1,408 | 530 | 33 |
 | Sh | 965 | 566 | 306 | 21 |
 
 ## OpenSSF Scorecard
 
-Overall score: **8.4 / 10**
+Overall score: **8.3 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.20.4` (2026-09-16)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,084 · **Forks**: 2,450 · **Open issues**: 3,824 · **Contributors**: 535
+- **Stars**: 14,082 · **Forks**: 2,452 · **Open issues**: 3,825 · **Contributors**: 537
 
 ## Totals (cumulative)
 
-- **Releases**: 257 · **Merged PRs**: 4196 · **Open PRs**: 102 · **Closed issues**: 3665 · **Open issues**: 159 · **Commits**: 11414
+- **Releases**: 257 · **Merged PRs**: 4206 · **Open PRs**: 102 · **Closed issues**: 3666 · **Open issues**: 159 · **Commits**: 11425
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 120 | 29 | 12 | 18 | 177 |
-| last60d | 2026-07-20 | 3 | 190 | 41 | 24 | 29 | 298 |
-| 90d | 2026-06-20 | 7 | 283 | 50 | 32 | 36 | 439 |
-| last180d | 2026-03-22 | 12 | 450 | 64 | 52 | 53 | 763 |
-| 360d | 2025-09-23 | 26 | 808 | 87 | 124 | 85 | 1471 |
-| last720d | 2024-09-28 | 50 | 1212 | 98 | 309 | 121 | 2308 |
+| 30d | 2026-08-21 | 2 | 119 | 28 | 12 | 17 | 149 |
+| last60d | 2026-07-22 | 3 | 193 | 40 | 26 | 28 | 288 |
+| 90d | 2026-06-22 | 7 | 289 | 50 | 34 | 34 | 418 |
+| last180d | 2026-03-24 | 12 | 459 | 64 | 54 | 52 | 747 |
+| 360d | 2025-09-25 | 26 | 814 | 87 | 125 | 84 | 1440 |
+| last720d | 2024-09-30 | 50 | 1222 | 98 | 310 | 120 | 2319 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cert-manager lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:05:45Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:15:51Z._
