@@ -26,13 +26,13 @@ x install cert-manager
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8.3 / 10**
+总评分: **8.4 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install cert-manager
 ## 发布
 
 - **最新版本**: `v1.20.4` (2026-09-16)
-- **最近提交**: 2026-09-19
+- **最近提交**: 2026-09-20
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 14,082 · **Fork**: 2,452 · **开放 issue**: 3,825 · **贡献者**: 537
+- **Star**: 14,083 · **Fork**: 2,452 · **开放 issue**: 3,825 · **贡献者**: 537
 
 ## 累计统计
 
-- **发布数**: 257 · **已合并 PR**: 4206 · **开放 PR**: 102 · **已关闭 issue**: 3666 · **开放 issue**: 159 · **提交数**: 11425
+- **发布数**: 257 · **已合并 PR**: 4211 · **开放 PR**: 99 · **已关闭 issue**: 3666 · **开放 issue**: 159 · **提交数**: 11433
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 2 | 119 | 28 | 12 | 17 | 149 |
-| last60d | 2026-07-22 | 3 | 193 | 40 | 26 | 28 | 288 |
-| 90d | 2026-06-22 | 7 | 289 | 50 | 34 | 34 | 418 |
-| last180d | 2026-03-24 | 12 | 459 | 64 | 54 | 52 | 747 |
-| 360d | 2025-09-25 | 26 | 814 | 87 | 125 | 84 | 1440 |
-| last720d | 2024-09-30 | 50 | 1222 | 98 | 310 | 120 | 2319 |
+| 30d | 2026-08-22 | 2 | 121 | 25 | 12 | 17 | 157 |
+| last60d | 2026-07-23 | 3 | 198 | 37 | 25 | 28 | 296 |
+| 90d | 2026-06-23 | 7 | 289 | 46 | 34 | 34 | 426 |
+| last180d | 2026-03-25 | 11 | 463 | 61 | 54 | 52 | 755 |
+| 360d | 2025-09-26 | 26 | 818 | 84 | 124 | 84 | 1448 |
+| last720d | 2024-10-01 | 50 | 1223 | 95 | 308 | 120 | 2327 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ cert-manager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260920.yml` · 2026-09-20T05:15:52Z._
+_数据快照: `data/card/260921.yml` · 2026-09-21T05:16:46Z._
