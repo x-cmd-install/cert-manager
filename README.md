@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.20.4` (2026-09-16)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-22
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,083 · **Forks**: 2,452 · **Open issues**: 3,825 · **Contributors**: 537
+- **Stars**: 14,084 · **Forks**: 2,451 · **Open issues**: 3,825 · **Contributors**: 537
 
 ## Totals (cumulative)
 
-- **Releases**: 257 · **Merged PRs**: 4211 · **Open PRs**: 99 · **Closed issues**: 3666 · **Open issues**: 159 · **Commits**: 11433
+- **Releases**: 257 · **Merged PRs**: 4213 · **Open PRs**: 100 · **Closed issues**: 3666 · **Open issues**: 159 · **Commits**: 11437
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 121 | 25 | 12 | 17 | 157 |
-| last60d | 2026-07-23 | 3 | 198 | 37 | 25 | 28 | 296 |
-| 90d | 2026-06-23 | 7 | 289 | 46 | 34 | 34 | 426 |
-| last180d | 2026-03-25 | 11 | 463 | 61 | 54 | 52 | 755 |
-| 360d | 2025-09-26 | 26 | 818 | 84 | 124 | 84 | 1448 |
-| last720d | 2024-10-01 | 50 | 1223 | 95 | 308 | 120 | 2327 |
+| 30d | 2026-08-23 | 2 | 123 | 26 | 12 | 17 | 161 |
+| last60d | 2026-07-24 | 3 | 195 | 38 | 24 | 27 | 300 |
+| 90d | 2026-06-24 | 7 | 290 | 47 | 33 | 34 | 430 |
+| last180d | 2026-03-26 | 11 | 465 | 62 | 54 | 52 | 759 |
+| 360d | 2025-09-27 | 26 | 817 | 85 | 124 | 84 | 1452 |
+| last720d | 2024-10-02 | 50 | 1220 | 96 | 307 | 120 | 2325 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cert-manager lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:16:46Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:17:33Z._
