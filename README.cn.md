@@ -4,7 +4,7 @@
 
 Automatically provision and manage TLS certificates in Kubernetes
 
-[![x-cmd/install — cert-manager Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cert-manager.svg?lang=zh)](https://x-cmd.com/install/cert-manager)
+[![x-cmd/install — cert-manager Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cert-manager.svg?lang=zh)](https://x-cmd.com/install/cert-manager)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install cert-manager
 
 ## 流行度
 
-- **Star**: 14,084 · **Fork**: 2,451 · **开放 issue**: 3,825 · **贡献者**: 537
+- **Star**: 14,087 · **Fork**: 2,451 · **开放 issue**: 3,825 · **贡献者**: 537
 
 ## 累计统计
 
-- **发布数**: 257 · **已合并 PR**: 4213 · **开放 PR**: 100 · **已关闭 issue**: 3666 · **开放 issue**: 159 · **提交数**: 11437
+- **发布数**: 257 · **已合并 PR**: 4213 · **开放 PR**: 102 · **已关闭 issue**: 3666 · **开放 issue**: 159 · **提交数**: 11437
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 123 | 26 | 12 | 17 | 161 |
-| last60d | 2026-07-24 | 3 | 195 | 38 | 24 | 27 | 300 |
-| 90d | 2026-06-24 | 7 | 290 | 47 | 33 | 34 | 430 |
-| last180d | 2026-03-26 | 11 | 465 | 62 | 54 | 52 | 759 |
-| 360d | 2025-09-27 | 26 | 817 | 85 | 124 | 84 | 1452 |
-| last720d | 2024-10-02 | 50 | 1220 | 96 | 307 | 120 | 2325 |
+| 30d | 2026-08-24 | 2 | 118 | 28 | 12 | 17 | 161 |
+| last60d | 2026-07-25 | 3 | 195 | 40 | 24 | 27 | 300 |
+| 90d | 2026-06-25 | 7 | 281 | 49 | 33 | 33 | 430 |
+| last180d | 2026-03-27 | 11 | 460 | 64 | 54 | 50 | 759 |
+| 360d | 2025-09-28 | 26 | 815 | 87 | 124 | 84 | 1452 |
+| last720d | 2024-10-03 | 50 | 1220 | 98 | 305 | 120 | 2321 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ cert-manager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:17:33Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:16:25Z._
