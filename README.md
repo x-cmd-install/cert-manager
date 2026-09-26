@@ -26,13 +26,13 @@ Total: **218,590** lines of code across **1102** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.4 / 10**
+Overall score: **8.3 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.20.4` (2026-09-16)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-25
 - **Assets in release**: 2
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 257 · **Merged PRs**: 4213 · **Open PRs**: 102 · **Closed issues**: 3666 · **Open issues**: 160 · **Commits**: 11437
+- **Releases**: 257 · **Merged PRs**: 4215 · **Open PRs**: 102 · **Closed issues**: 3666 · **Open issues**: 160 · **Commits**: 11441
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 2 | 113 | 29 | 12 | 18 | 161 |
-| last60d | 2026-07-27 | 3 | 195 | 41 | 24 | 28 | 300 |
-| 90d | 2026-06-27 | 5 | 275 | 50 | 33 | 34 | 430 |
-| last180d | 2026-03-29 | 10 | 459 | 65 | 54 | 51 | 759 |
-| 360d | 2025-09-30 | 26 | 810 | 88 | 124 | 84 | 1452 |
-| last720d | 2024-10-05 | 49 | 1219 | 98 | 299 | 121 | 2321 |
+| 30d | 2026-08-27 | 2 | 110 | 29 | 12 | 18 | 165 |
+| last60d | 2026-07-28 | 3 | 194 | 40 | 24 | 27 | 304 |
+| 90d | 2026-06-28 | 5 | 276 | 50 | 33 | 34 | 434 |
+| last180d | 2026-03-30 | 10 | 458 | 65 | 54 | 51 | 763 |
+| 360d | 2025-10-01 | 26 | 809 | 88 | 124 | 84 | 1456 |
+| last720d | 2024-10-06 | 49 | 1221 | 98 | 299 | 121 | 2323 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cert-manager lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:14:30Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:13:18Z._
