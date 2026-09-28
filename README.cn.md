@@ -32,7 +32,7 @@ x install cert-manager
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install cert-manager
 
 ## 流行度
 
-- **Star**: 14,092 · **Fork**: 2,455 · **开放 issue**: 3,827 · **贡献者**: 537
+- **Star**: 14,093 · **Fork**: 2,455 · **开放 issue**: 3,827 · **贡献者**: 537
 
 ## 累计统计
 
-- **发布数**: 257 · **已合并 PR**: 4216 · **开放 PR**: 102 · **已关闭 issue**: 3666 · **开放 issue**: 161 · **提交数**: 11443
+- **发布数**: 257 · **已合并 PR**: 4218 · **开放 PR**: 104 · **已关闭 issue**: 3667 · **开放 issue**: 160 · **提交数**: 11447
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 2 | 109 | 30 | 12 | 18 | 99 |
-| last60d | 2026-07-29 | 3 | 194 | 41 | 23 | 27 | 297 |
-| 90d | 2026-06-29 | 5 | 273 | 50 | 33 | 34 | 406 |
-| last180d | 2026-03-31 | 10 | 458 | 66 | 53 | 52 | 748 |
-| 360d | 2025-10-02 | 26 | 809 | 88 | 124 | 85 | 1422 |
-| last720d | 2024-10-07 | 49 | 1216 | 98 | 297 | 122 | 2325 |
+| 30d | 2026-08-29 | 2 | 109 | 32 | 13 | 17 | 103 |
+| last60d | 2026-07-30 | 2 | 191 | 43 | 24 | 26 | 301 |
+| 90d | 2026-06-30 | 5 | 272 | 52 | 34 | 33 | 410 |
+| last180d | 2026-04-01 | 10 | 460 | 68 | 54 | 51 | 752 |
+| 360d | 2025-10-03 | 25 | 807 | 90 | 125 | 84 | 1426 |
+| last720d | 2024-10-08 | 49 | 1216 | 100 | 296 | 121 | 2322 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ cert-manager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260927.yml` · 2026-09-27T05:39:50Z._
+_数据快照: `data/card/260928.yml` · 2026-09-28T05:44:58Z._
