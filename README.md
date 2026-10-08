@@ -26,13 +26,13 @@ Total: **219,358** lines of code across **1106** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.3 / 10**
+Overall score: **8.4 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.20.4` (2026-09-16)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-08
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,105 · **Forks**: 2,461 · **Open issues**: 3,832 · **Contributors**: 538
+- **Stars**: 14,108 · **Forks**: 2,460 · **Open issues**: 3,833 · **Contributors**: 538
 
 ## Totals (cumulative)
 
-- **Releases**: 257 · **Merged PRs**: 4242 · **Open PRs**: 107 · **Closed issues**: 3673 · **Open issues**: 159 · **Commits**: 11482
+- **Releases**: 257 · **Merged PRs**: 4243 · **Open PRs**: 109 · **Closed issues**: 3673 · **Open issues**: 160 · **Commits**: 11484
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 2 | 77 | 28 | 7 | 9 | 93 |
-| last60d | 2026-08-08 | 2 | 204 | 44 | 26 | 25 | 301 |
-| 90d | 2026-07-09 | 3 | 269 | 54 | 35 | 34 | 400 |
-| last180d | 2026-04-10 | 10 | 461 | 69 | 55 | 50 | 761 |
-| 360d | 2025-10-12 | 24 | 809 | 93 | 124 | 85 | 1436 |
-| last720d | 2024-10-17 | 48 | 1225 | 103 | 295 | 120 | 2333 |
+| 30d | 2026-09-08 | 2 | 67 | 27 | 7 | 10 | 95 |
+| last60d | 2026-08-09 | 2 | 204 | 45 | 26 | 26 | 303 |
+| 90d | 2026-07-10 | 3 | 258 | 55 | 34 | 35 | 402 |
+| last180d | 2026-04-11 | 10 | 461 | 71 | 55 | 51 | 763 |
+| 360d | 2025-10-13 | 24 | 810 | 95 | 124 | 86 | 1438 |
+| last720d | 2024-10-18 | 48 | 1226 | 105 | 294 | 121 | 2334 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cert-manager lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:13:29Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:20:20Z._
