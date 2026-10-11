@@ -31,8 +31,8 @@ x install cert-manager
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install cert-manager
 
 ## 流行度
 
-- **Star**: 14,106 · **Fork**: 2,459 · **开放 issue**: 3,834 · **贡献者**: 538
+- **Star**: 14,107 · **Fork**: 2,460 · **开放 issue**: 3,834 · **贡献者**: 538
 
 ## 累计统计
 
-- **发布数**: 257 · **已合并 PR**: 4252 · **开放 PR**: 115 · **已关闭 issue**: 3673 · **开放 issue**: 161 · **提交数**: 11498
+- **发布数**: 257 · **已合并 PR**: 4254 · **开放 PR**: 115 · **已关闭 issue**: 3673 · **开放 issue**: 161 · **提交数**: 11502
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 2 | 67 | 30 | 5 | 10 | 109 |
-| last60d | 2026-08-11 | 2 | 205 | 51 | 25 | 25 | 317 |
-| 90d | 2026-07-12 | 3 | 264 | 61 | 34 | 36 | 416 |
-| last180d | 2026-04-13 | 9 | 468 | 76 | 55 | 52 | 777 |
-| 360d | 2025-10-15 | 24 | 808 | 101 | 122 | 87 | 1452 |
-| last720d | 2024-10-20 | 48 | 1235 | 111 | 293 | 122 | 2348 |
+| 30d | 2026-09-11 | 2 | 63 | 28 | 5 | 10 | 83 |
+| last60d | 2026-08-12 | 2 | 205 | 51 | 24 | 25 | 284 |
+| 90d | 2026-07-13 | 3 | 265 | 61 | 34 | 36 | 397 |
+| last180d | 2026-04-14 | 9 | 470 | 76 | 55 | 52 | 749 |
+| 360d | 2025-10-16 | 22 | 809 | 101 | 121 | 86 | 1446 |
+| last720d | 2024-10-21 | 48 | 1236 | 110 | 290 | 122 | 2352 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ cert-manager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261010.yml` · 2026-10-10T06:06:42Z._
+_数据快照: `data/card/261011.yml` · 2026-10-11T06:07:00Z._
