@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.20.4` (2026-09-16)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-12
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,108 · **Forks**: 2,461 · **Open issues**: 3,836 · **Contributors**: 539
+- **Stars**: 14,111 · **Forks**: 2,464 · **Open issues**: 3,836 · **Contributors**: 539
 
 ## Totals (cumulative)
 
-- **Releases**: 257 · **Merged PRs**: 4256 · **Open PRs**: 116 · **Closed issues**: 3674 · **Open issues**: 162 · **Commits**: 11506
+- **Releases**: 257 · **Merged PRs**: 4257 · **Open PRs**: 120 · **Closed issues**: 3674 · **Open issues**: 162 · **Commits**: 11514
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 1 | 61 | 30 | 5 | 12 | 87 |
-| last60d | 2026-08-13 | 2 | 201 | 52 | 24 | 27 | 288 |
-| 90d | 2026-07-14 | 3 | 262 | 62 | 33 | 36 | 401 |
-| last180d | 2026-04-15 | 9 | 469 | 77 | 55 | 53 | 753 |
-| 360d | 2025-10-17 | 22 | 809 | 101 | 121 | 87 | 1450 |
-| last720d | 2024-10-22 | 48 | 1238 | 111 | 291 | 123 | 2352 |
+| 30d | 2026-09-13 | 1 | 62 | 33 | 5 | 9 | 95 |
+| last60d | 2026-08-14 | 2 | 195 | 56 | 23 | 27 | 296 |
+| 90d | 2026-07-15 | 3 | 262 | 65 | 32 | 35 | 409 |
+| last180d | 2026-04-16 | 9 | 465 | 80 | 55 | 53 | 761 |
+| 360d | 2025-10-18 | 22 | 809 | 105 | 120 | 87 | 1458 |
+| last720d | 2024-10-23 | 48 | 1239 | 115 | 291 | 123 | 2360 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cert-manager lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:14:22Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:13:29Z._
