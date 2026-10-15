@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.20.4` (2026-09-16)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-14
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,113 · **Forks**: 2,465 · **Open issues**: 3,836 · **Contributors**: 540
+- **Stars**: 14,114 · **Forks**: 2,466 · **Open issues**: 3,836 · **Contributors**: 540
 
 ## Totals (cumulative)
 
-- **Releases**: 257 · **Merged PRs**: 4265 · **Open PRs**: 117 · **Closed issues**: 3675 · **Open issues**: 161 · **Commits**: 11530
+- **Releases**: 257 · **Merged PRs**: 4270 · **Open PRs**: 118 · **Closed issues**: 3675 · **Open issues**: 161 · **Commits**: 11532
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 68 | 29 | 6 | 8 | 105 |
-| last60d | 2026-08-15 | 2 | 198 | 50 | 20 | 23 | 306 |
-| 90d | 2026-07-16 | 3 | 268 | 62 | 33 | 33 | 419 |
-| last180d | 2026-04-17 | 9 | 470 | 77 | 56 | 52 | 771 |
-| 360d | 2025-10-19 | 22 | 817 | 102 | 121 | 85 | 1468 |
-| last720d | 2024-10-24 | 48 | 1247 | 112 | 291 | 122 | 2376 |
+| 30d | 2026-09-15 | 1 | 70 | 30 | 4 | 7 | 107 |
+| last60d | 2026-08-16 | 2 | 200 | 50 | 20 | 23 | 308 |
+| 90d | 2026-07-17 | 3 | 267 | 63 | 32 | 33 | 421 |
+| last180d | 2026-04-18 | 9 | 471 | 77 | 55 | 51 | 773 |
+| 360d | 2025-10-20 | 22 | 821 | 103 | 121 | 85 | 1470 |
+| last720d | 2024-10-25 | 48 | 1251 | 113 | 291 | 121 | 2378 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cert-manager lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:10:27Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:54:51Z._
