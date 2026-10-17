@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,116 · **Forks**: 2,467 · **Open issues**: 3,836 · **Contributors**: 540
+- **Stars**: 14,116 · **Forks**: 2,467 · **Open issues**: 3,837 · **Contributors**: 540
 
 ## Totals (cumulative)
 
-- **Releases**: 257 · **Merged PRs**: 4271 · **Open PRs**: 118 · **Closed issues**: 3675 · **Open issues**: 161 · **Commits**: 11534
+- **Releases**: 257 · **Merged PRs**: 4271 · **Open PRs**: 120 · **Closed issues**: 3675 · **Open issues**: 162 · **Commits**: 11534
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 1 | 70 | 30 | 4 | 7 | 109 |
-| last60d | 2026-08-17 | 2 | 197 | 50 | 19 | 23 | 310 |
-| 90d | 2026-07-18 | 3 | 268 | 63 | 32 | 33 | 423 |
-| last180d | 2026-04-19 | 9 | 471 | 77 | 55 | 51 | 775 |
-| 360d | 2025-10-21 | 22 | 820 | 103 | 120 | 85 | 1472 |
-| last720d | 2024-10-26 | 48 | 1252 | 113 | 290 | 121 | 2375 |
+| 30d | 2026-09-17 | 0 | 65 | 32 | 4 | 8 | 109 |
+| last60d | 2026-08-18 | 2 | 194 | 51 | 19 | 24 | 310 |
+| 90d | 2026-07-19 | 3 | 266 | 62 | 32 | 34 | 423 |
+| last180d | 2026-04-20 | 9 | 471 | 79 | 55 | 52 | 775 |
+| 360d | 2025-10-22 | 22 | 820 | 105 | 118 | 86 | 1472 |
+| last720d | 2024-10-27 | 48 | 1252 | 115 | 290 | 122 | 2375 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cert-manager lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:53:10Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:38:06Z._
