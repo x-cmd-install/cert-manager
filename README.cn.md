@@ -32,7 +32,7 @@ x install cert-manager
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install cert-manager
 
 ## 流行度
 
-- **Star**: 14,116 · **Fork**: 2,467 · **开放 issue**: 3,837 · **贡献者**: 540
+- **Star**: 14,118 · **Fork**: 2,468 · **开放 issue**: 3,837 · **贡献者**: 540
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install cert-manager
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 65 | 32 | 4 | 8 | 109 |
-| last60d | 2026-08-18 | 2 | 194 | 51 | 19 | 24 | 310 |
-| 90d | 2026-07-19 | 3 | 266 | 62 | 32 | 34 | 423 |
-| last180d | 2026-04-20 | 9 | 471 | 79 | 55 | 52 | 775 |
-| 360d | 2025-10-22 | 22 | 820 | 105 | 118 | 86 | 1472 |
-| last720d | 2024-10-27 | 48 | 1252 | 115 | 290 | 122 | 2375 |
+| 30d | 2026-09-18 | 0 | 58 | 30 | 3 | 8 | 89 |
+| last60d | 2026-08-19 | 2 | 194 | 51 | 19 | 24 | 265 |
+| 90d | 2026-07-20 | 3 | 265 | 61 | 32 | 34 | 403 |
+| last180d | 2026-04-21 | 9 | 471 | 79 | 54 | 52 | 764 |
+| 360d | 2025-10-23 | 22 | 818 | 105 | 117 | 86 | 1456 |
+| last720d | 2024-10-28 | 48 | 1252 | 115 | 290 | 122 | 2375 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ cert-manager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261017.yml` · 2026-10-17T04:38:07Z._
+_数据快照: `data/card/261018.yml` · 2026-10-18T04:45:06Z._
