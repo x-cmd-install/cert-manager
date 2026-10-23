@@ -31,8 +31,8 @@ x install cert-manager
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install cert-manager
 
 ## 流行度
 
-- **Star**: 14,129 · **Fork**: 2,476 · **开放 issue**: 3,837 · **贡献者**: 541
+- **Star**: 14,128 · **Fork**: 2,478 · **开放 issue**: 3,838 · **贡献者**: 541
 
 ## 累计统计
 
-- **发布数**: 257 · **已合并 PR**: 4278 · **开放 PR**: 125 · **已关闭 issue**: 3676 · **开放 issue**: 161 · **提交数**: 11544
+- **发布数**: 257 · **已合并 PR**: 4285 · **开放 PR**: 123 · **已关闭 issue**: 3676 · **开放 issue**: 162 · **提交数**: 11554
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 58 | 35 | 3 | 8 | 99 |
-| last60d | 2026-08-23 | 2 | 188 | 54 | 17 | 24 | 275 |
-| 90d | 2026-07-24 | 3 | 260 | 65 | 30 | 33 | 413 |
-| last180d | 2026-04-25 | 8 | 473 | 84 | 51 | 51 | 774 |
-| 360d | 2025-10-27 | 22 | 821 | 110 | 117 | 85 | 1466 |
-| last720d | 2024-11-01 | 48 | 1256 | 120 | 290 | 121 | 2384 |
+| 30d | 2026-09-23 | 0 | 65 | 32 | 3 | 9 | 109 |
+| last60d | 2026-08-24 | 2 | 190 | 52 | 17 | 25 | 285 |
+| 90d | 2026-07-25 | 3 | 267 | 63 | 30 | 34 | 423 |
+| last180d | 2026-04-26 | 8 | 480 | 82 | 51 | 52 | 784 |
+| 360d | 2025-10-28 | 22 | 827 | 108 | 116 | 86 | 1476 |
+| last720d | 2024-11-02 | 48 | 1263 | 118 | 290 | 122 | 2392 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ cert-manager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:59:31Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:03:57Z._

@@ -31,8 +31,8 @@ Overall score: **8.4 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,129 · **Forks**: 2,476 · **Open issues**: 3,837 · **Contributors**: 541
+- **Stars**: 14,128 · **Forks**: 2,478 · **Open issues**: 3,838 · **Contributors**: 541
 
 ## Totals (cumulative)
 
-- **Releases**: 257 · **Merged PRs**: 4278 · **Open PRs**: 125 · **Closed issues**: 3676 · **Open issues**: 161 · **Commits**: 11544
+- **Releases**: 257 · **Merged PRs**: 4285 · **Open PRs**: 123 · **Closed issues**: 3676 · **Open issues**: 162 · **Commits**: 11554
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 58 | 35 | 3 | 8 | 99 |
-| last60d | 2026-08-23 | 2 | 188 | 54 | 17 | 24 | 275 |
-| 90d | 2026-07-24 | 3 | 260 | 65 | 30 | 33 | 413 |
-| last180d | 2026-04-25 | 8 | 473 | 84 | 51 | 51 | 774 |
-| 360d | 2025-10-27 | 22 | 821 | 110 | 117 | 85 | 1466 |
-| last720d | 2024-11-01 | 48 | 1256 | 120 | 290 | 121 | 2384 |
+| 30d | 2026-09-23 | 0 | 65 | 32 | 3 | 9 | 109 |
+| last60d | 2026-08-24 | 2 | 190 | 52 | 17 | 25 | 285 |
+| 90d | 2026-07-25 | 3 | 267 | 63 | 30 | 34 | 423 |
+| last180d | 2026-04-26 | 8 | 480 | 82 | 51 | 52 | 784 |
+| 360d | 2025-10-28 | 22 | 827 | 108 | 116 | 86 | 1476 |
+| last720d | 2024-11-02 | 48 | 1263 | 118 | 290 | 122 | 2392 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cert-manager lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:59:30Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:03:56Z._
