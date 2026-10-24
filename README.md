@@ -31,8 +31,8 @@ Overall score: **8.4 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -42,35 +42,35 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.20.4` (2026-09-16)
-- **Last commit**: 2026-10-22
+- **Latest**: `v1.21.3` (2026-10-23)
+- **Last commit**: 2026-10-24
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,128 · **Forks**: 2,478 · **Open issues**: 3,838 · **Contributors**: 541
+- **Stars**: 14,126 · **Forks**: 2,481 · **Open issues**: 3,843 · **Contributors**: 541
 
 ## Totals (cumulative)
 
-- **Releases**: 257 · **Merged PRs**: 4285 · **Open PRs**: 123 · **Closed issues**: 3676 · **Open issues**: 162 · **Commits**: 11554
+- **Releases**: 258 · **Merged PRs**: 4287 · **Open PRs**: 127 · **Closed issues**: 3677 · **Open issues**: 166 · **Commits**: 11556
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 65 | 32 | 3 | 9 | 109 |
-| last60d | 2026-08-24 | 2 | 190 | 52 | 17 | 25 | 285 |
-| 90d | 2026-07-25 | 3 | 267 | 63 | 30 | 34 | 423 |
-| last180d | 2026-04-26 | 8 | 480 | 82 | 51 | 52 | 784 |
-| 360d | 2025-10-28 | 22 | 827 | 108 | 116 | 86 | 1476 |
-| last720d | 2024-11-02 | 48 | 1263 | 118 | 290 | 122 | 2392 |
+| 30d | 2026-09-24 | 1 | 67 | 35 | 4 | 12 | 111 |
+| last60d | 2026-08-25 | 3 | 189 | 56 | 18 | 29 | 287 |
+| 90d | 2026-07-26 | 4 | 269 | 67 | 31 | 38 | 425 |
+| last180d | 2026-04-27 | 9 | 478 | 86 | 52 | 55 | 786 |
+| 360d | 2025-10-29 | 23 | 827 | 112 | 117 | 90 | 1478 |
+| last720d | 2024-11-03 | 49 | 1265 | 122 | 290 | 126 | 2394 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [cert-manager.crds.yaml](https://github.com/cert-manager/cert-manager/releases/download/v1.21.2/cert-manager.crds.yaml) | 973.7 KiB | `other` |
-| [cert-manager.yaml](https://github.com/cert-manager/cert-manager/releases/download/v1.21.2/cert-manager.yaml) | 1010.2 KiB | `other` |
+| [cert-manager.crds.yaml](https://github.com/cert-manager/cert-manager/releases/download/v1.21.3/cert-manager.crds.yaml) | 974.2 KiB | `other` |
+| [cert-manager.yaml](https://github.com/cert-manager/cert-manager/releases/download/v1.21.3/cert-manager.yaml) | 1010.6 KiB | `other` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for cert-manager lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:03:56Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:55:05Z._
