@@ -14,11 +14,11 @@ x install cert-manager
 
 ## 代码洞察
 
-合计: **219,712** 行代码（覆盖前 5 种语言、共 **1108** 个文件）。
+合计: **218,624** 行代码（覆盖前 5 种语言、共 **1108** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 181,848 | 35,119 | 20,996 | 946 |
+| Go | 180,760 | 35,120 | 20,993 | 946 |
 | Yaml | 31,965 | 1,452 | 556 | 102 |
 | Json | 2,601 | 0 | 0 | 6 |
 | Makefile | 1,822 | 1,425 | 532 | 33 |
@@ -31,7 +31,7 @@ x install cert-manager
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 - **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 
 ## 源代码
@@ -43,27 +43,27 @@ x install cert-manager
 ## 发布
 
 - **最新版本**: `v1.21.3` (2026-10-23)
-- **最近提交**: 2026-10-24
+- **最近提交**: 2026-10-25
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 14,126 · **Fork**: 2,480 · **开放 issue**: 3,843 · **贡献者**: 542
+- **Star**: 14,129 · **Fork**: 2,479 · **开放 issue**: 3,843 · **贡献者**: 542
 
 ## 累计统计
 
-- **发布数**: 258 · **已合并 PR**: 4288 · **开放 PR**: 127 · **已关闭 issue**: 3678 · **开放 issue**: 165 · **提交数**: 11560
+- **发布数**: 258 · **已合并 PR**: 4291 · **开放 PR**: 125 · **已关闭 issue**: 3678 · **开放 issue**: 165 · **提交数**: 11567
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 66 | 35 | 5 | 11 | 90 |
-| last60d | 2026-08-26 | 3 | 188 | 56 | 19 | 28 | 231 |
-| 90d | 2026-07-27 | 4 | 270 | 67 | 32 | 37 | 415 |
-| last180d | 2026-04-28 | 9 | 478 | 86 | 52 | 54 | 767 |
-| 360d | 2025-10-30 | 23 | 827 | 112 | 116 | 89 | 1427 |
-| last720d | 2024-11-04 | 49 | 1266 | 122 | 291 | 125 | 2398 |
+| 30d | 2026-09-26 | 1 | 69 | 32 | 4 | 11 | 97 |
+| last60d | 2026-08-27 | 3 | 186 | 54 | 19 | 28 | 238 |
+| 90d | 2026-07-28 | 4 | 270 | 65 | 32 | 36 | 422 |
+| last180d | 2026-04-29 | 9 | 478 | 84 | 52 | 54 | 774 |
+| 360d | 2025-10-31 | 23 | 828 | 109 | 116 | 89 | 1434 |
+| last720d | 2024-11-05 | 49 | 1265 | 120 | 291 | 125 | 2405 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ cert-manager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261025.yml` · 2026-10-25T04:55:47Z._
+_数据快照: `data/card/261026.yml` · 2026-10-26T04:58:03Z._
