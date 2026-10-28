@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 997536,
       "digest": "sha256:29810b2a84c8ee0731a79679ee1dfd7e93cd750eb0244542eec47fa8700f2749",
-      "download_count": 22584,
+      "download_count": 33626,
       "created_at": "2026-10-23T20:10:05Z",
       "updated_at": "2026-10-23T20:10:05Z",
       "browser_download_url": "https://github.com/cert-manager/cert-manager/releases/download/v1.21.3/cert-manager.crds.yaml"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1034826,
       "digest": "sha256:c04a51295adda2b1a775146751f973e787190778c7f35180861d9678876e5c74",
-      "download_count": 17119,
+      "download_count": 28135,
       "created_at": "2026-10-23T20:10:06Z",
       "updated_at": "2026-10-23T20:10:06Z",
       "browser_download_url": "https://github.com/cert-manager/cert-manager/releases/download/v1.21.3/cert-manager.yaml"
