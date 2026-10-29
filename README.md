@@ -31,7 +31,7 @@ Overall score: **8.4 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 - **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 
 ## Source
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.21.3` (2026-10-23)
-- **Last commit**: 2026-10-27
+- **Latest**: `v1.20.5` (2026-10-28)
+- **Last commit**: 2026-10-28
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,134 · **Forks**: 2,479 · **Open issues**: 3,844 · **Contributors**: 543
+- **Stars**: 14,139 · **Forks**: 2,479 · **Open issues**: 3,844 · **Contributors**: 543
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 4297 · **Open PRs**: 126 · **Closed issues**: 3680 · **Open issues**: 164 · **Commits**: 11572
+- **Releases**: 259 · **Merged PRs**: 4303 · **Open PRs**: 125 · **Closed issues**: 3682 · **Open issues**: 162 · **Commits**: 11576
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 1 | 69 | 33 | 5 | 11 | 104 |
-| last60d | 2026-08-29 | 3 | 188 | 55 | 20 | 27 | 245 |
-| 90d | 2026-07-30 | 3 | 270 | 66 | 32 | 35 | 429 |
-| last180d | 2026-05-01 | 9 | 481 | 85 | 53 | 53 | 781 |
-| 360d | 2025-11-02 | 23 | 831 | 110 | 117 | 89 | 1441 |
-| last720d | 2024-11-07 | 49 | 1268 | 121 | 291 | 125 | 2406 |
+| 30d | 2026-09-29 | 2 | 74 | 30 | 5 | 10 | 108 |
+| last60d | 2026-08-30 | 4 | 188 | 54 | 21 | 26 | 249 |
+| 90d | 2026-07-31 | 4 | 275 | 65 | 33 | 34 | 433 |
+| last180d | 2026-05-02 | 10 | 487 | 84 | 54 | 52 | 785 |
+| 360d | 2025-11-03 | 24 | 837 | 109 | 118 | 88 | 1445 |
+| last720d | 2024-11-08 | 50 | 1272 | 120 | 292 | 124 | 2410 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cert-manager lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:53:24Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:00:06Z._

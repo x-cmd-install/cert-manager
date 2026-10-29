@@ -31,7 +31,7 @@ x install cert-manager
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 - **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 
 ## 源代码
@@ -42,28 +42,28 @@ x install cert-manager
 
 ## 发布
 
-- **最新版本**: `v1.21.3` (2026-10-23)
-- **最近提交**: 2026-10-27
+- **最新版本**: `v1.20.5` (2026-10-28)
+- **最近提交**: 2026-10-28
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 14,134 · **Fork**: 2,479 · **开放 issue**: 3,844 · **贡献者**: 543
+- **Star**: 14,139 · **Fork**: 2,479 · **开放 issue**: 3,844 · **贡献者**: 543
 
 ## 累计统计
 
-- **发布数**: 258 · **已合并 PR**: 4297 · **开放 PR**: 126 · **已关闭 issue**: 3680 · **开放 issue**: 164 · **提交数**: 11572
+- **发布数**: 259 · **已合并 PR**: 4303 · **开放 PR**: 125 · **已关闭 issue**: 3682 · **开放 issue**: 162 · **提交数**: 11576
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 1 | 69 | 33 | 5 | 11 | 104 |
-| last60d | 2026-08-29 | 3 | 188 | 55 | 20 | 27 | 245 |
-| 90d | 2026-07-30 | 3 | 270 | 66 | 32 | 35 | 429 |
-| last180d | 2026-05-01 | 9 | 481 | 85 | 53 | 53 | 781 |
-| 360d | 2025-11-02 | 23 | 831 | 110 | 117 | 89 | 1441 |
-| last720d | 2024-11-07 | 49 | 1268 | 121 | 291 | 125 | 2406 |
+| 30d | 2026-09-29 | 2 | 74 | 30 | 5 | 10 | 108 |
+| last60d | 2026-08-30 | 4 | 188 | 54 | 21 | 26 | 249 |
+| 90d | 2026-07-31 | 4 | 275 | 65 | 33 | 34 | 433 |
+| last180d | 2026-05-02 | 10 | 487 | 84 | 54 | 52 | 785 |
+| 360d | 2025-11-03 | 24 | 837 | 109 | 118 | 88 | 1445 |
+| last720d | 2024-11-08 | 50 | 1272 | 120 | 292 | 124 | 2410 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ cert-manager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261028.yml` · 2026-10-28T05:53:25Z._
+_数据快照: `data/card/261029.yml` · 2026-10-29T06:00:07Z._
