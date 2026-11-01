@@ -31,8 +31,8 @@ x install cert-manager
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install cert-manager
 ## 发布
 
 - **最新版本**: `v1.20.5` (2026-10-28)
-- **最近提交**: 2026-10-29
+- **最近提交**: 2026-10-31
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 14,144 · **Fork**: 2,483 · **开放 issue**: 3,844 · **贡献者**: 543
+- **Star**: 14,146 · **Fork**: 2,482 · **开放 issue**: 3,845 · **贡献者**: 543
 
 ## 累计统计
 
-- **发布数**: 259 · **已合并 PR**: 4304 · **开放 PR**: 125 · **已关闭 issue**: 3684 · **开放 issue**: 160 · **提交数**: 11578
+- **发布数**: 259 · **已合并 PR**: 4310 · **开放 PR**: 126 · **已关闭 issue**: 3684 · **开放 issue**: 161 · **提交数**: 11586
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 69 | 28 | 4 | 10 | 110 |
-| last60d | 2026-09-01 | 4 | 171 | 49 | 16 | 22 | 251 |
-| 90d | 2026-08-02 | 4 | 276 | 65 | 33 | 34 | 435 |
-| last180d | 2026-05-04 | 10 | 487 | 84 | 54 | 52 | 787 |
-| 360d | 2025-11-05 | 23 | 832 | 109 | 117 | 88 | 1447 |
-| last720d | 2024-11-10 | 50 | 1271 | 120 | 294 | 122 | 2407 |
+| 30d | 2026-10-02 | 2 | 73 | 27 | 4 | 9 | 86 |
+| last60d | 2026-09-02 | 4 | 173 | 50 | 16 | 23 | 199 |
+| 90d | 2026-08-03 | 4 | 280 | 66 | 32 | 35 | 418 |
+| last180d | 2026-05-05 | 10 | 493 | 85 | 54 | 53 | 779 |
+| 360d | 2025-11-06 | 23 | 838 | 110 | 116 | 88 | 1437 |
+| last720d | 2024-11-11 | 50 | 1276 | 121 | 293 | 123 | 2415 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ cert-manager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261031.yml` · 2026-10-31T05:54:12Z._
+_数据快照: `data/card/261101.yml` · 2026-11-01T06:20:12Z._
