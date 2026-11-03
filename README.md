@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.20.5` (2026-10-28)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-02
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,146 · **Forks**: 2,482 · **Open issues**: 3,845 · **Contributors**: 544
+- **Stars**: 14,145 · **Forks**: 2,485 · **Open issues**: 3,845 · **Contributors**: 545
 
 ## Totals (cumulative)
 
-- **Releases**: 259 · **Merged PRs**: 4316 · **Open PRs**: 122 · **Closed issues**: 3685 · **Open issues**: 160 · **Commits**: 11598
+- **Releases**: 259 · **Merged PRs**: 4317 · **Open PRs**: 125 · **Closed issues**: 3686 · **Open issues**: 159 · **Commits**: 11600
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 75 | 26 | 4 | 9 | 95 |
-| last60d | 2026-09-03 | 4 | 168 | 48 | 15 | 22 | 210 |
-| 90d | 2026-08-04 | 4 | 283 | 62 | 32 | 34 | 431 |
-| last180d | 2026-05-06 | 10 | 498 | 81 | 55 | 51 | 793 |
-| 360d | 2025-11-07 | 23 | 844 | 106 | 117 | 87 | 1451 |
-| last720d | 2024-11-12 | 50 | 1282 | 117 | 293 | 122 | 2425 |
+| 30d | 2026-10-04 | 2 | 72 | 29 | 5 | 8 | 97 |
+| last60d | 2026-09-04 | 4 | 165 | 51 | 14 | 20 | 212 |
+| 90d | 2026-08-05 | 4 | 283 | 65 | 33 | 32 | 433 |
+| last180d | 2026-05-07 | 10 | 498 | 84 | 56 | 50 | 795 |
+| 360d | 2025-11-08 | 23 | 844 | 109 | 118 | 86 | 1453 |
+| last720d | 2024-11-13 | 50 | 1283 | 120 | 294 | 121 | 2427 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cert-manager lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:24:04Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:13:45Z._
