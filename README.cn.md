@@ -31,7 +31,7 @@ x install cert-manager
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## 源代码
@@ -58,12 +58,12 @@ x install cert-manager
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 73 | 24 | 7 | 9 | 113 |
-| last60d | 2026-09-08 | 4 | 149 | 44 | 17 | 16 | 230 |
-| 90d | 2026-08-09 | 4 | 287 | 60 | 37 | 31 | 451 |
-| last180d | 2026-05-11 | 10 | 503 | 81 | 59 | 49 | 813 |
-| 360d | 2025-11-12 | 23 | 849 | 105 | 118 | 86 | 1471 |
-| last720d | 2024-11-17 | 50 | 1293 | 116 | 295 | 120 | 2448 |
+| 30d | 2026-10-09 | 2 | 68 | 21 | 7 | 8 | 79 |
+| last60d | 2026-09-09 | 4 | 145 | 44 | 16 | 16 | 203 |
+| 90d | 2026-08-10 | 4 | 280 | 60 | 36 | 30 | 408 |
+| last180d | 2026-05-12 | 10 | 500 | 81 | 59 | 49 | 781 |
+| 360d | 2025-11-13 | 23 | 848 | 105 | 118 | 86 | 1457 |
+| last720d | 2024-11-18 | 50 | 1292 | 116 | 295 | 120 | 2447 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ cert-manager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261107.yml` · 2026-11-07T06:14:07Z._
+_数据快照: `data/card/261108.yml` · 2026-11-08T06:18:45Z._
