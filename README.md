@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.20.5` (2026-10-28)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-13
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,158 · **Forks**: 2,490 · **Open issues**: 3,854 · **Contributors**: 544
+- **Stars**: 14,161 · **Forks**: 2,489 · **Open issues**: 3,855 · **Contributors**: 544
 
 ## Totals (cumulative)
 
-- **Releases**: 259 · **Merged PRs**: 4344 · **Open PRs**: 121 · **Closed issues**: 3691 · **Open issues**: 163 · **Commits**: 11644
+- **Releases**: 259 · **Merged PRs**: 4345 · **Open PRs**: 127 · **Closed issues**: 3692 · **Open issues**: 163 · **Commits**: 11646
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 68 | 22 | 6 | 12 | 101 |
-| last60d | 2026-09-14 | 3 | 146 | 40 | 13 | 19 | 225 |
-| 90d | 2026-08-15 | 4 | 277 | 58 | 30 | 31 | 430 |
-| last180d | 2026-05-17 | 10 | 505 | 81 | 57 | 54 | 803 |
-| 360d | 2025-11-18 | 23 | 857 | 103 | 115 | 90 | 1479 |
-| last720d | 2024-11-23 | 47 | 1302 | 115 | 292 | 125 | 2461 |
+| 30d | 2026-10-15 | 2 | 67 | 27 | 6 | 13 | 103 |
+| last60d | 2026-09-15 | 3 | 144 | 46 | 11 | 19 | 227 |
+| 90d | 2026-08-16 | 4 | 275 | 63 | 30 | 32 | 432 |
+| last180d | 2026-05-18 | 10 | 501 | 87 | 57 | 55 | 805 |
+| 360d | 2025-11-19 | 23 | 858 | 108 | 115 | 91 | 1481 |
+| last720d | 2024-11-24 | 47 | 1303 | 121 | 291 | 126 | 2463 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cert-manager lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:59:39Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:42:56Z._
