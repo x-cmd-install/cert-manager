@@ -14,11 +14,11 @@ x install cert-manager
 
 ## Code insight
 
-Total: **221,632** lines of code across **1110** files in the top 5 languages.
+Total: **221,661** lines of code across **1110** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 183,698 | 35,460 | 21,282 | 948 |
+| Go | 183,727 | 35,466 | 21,286 | 948 |
 | Yaml | 32,043 | 1,454 | 556 | 102 |
 | Json | 2,601 | 0 | 0 | 6 |
 | Makefile | 1,814 | 1,425 | 530 | 33 |
@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.20.5` (2026-10-28)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-17
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 14,164 · **Forks**: 2,494 · **Open issues**: 3,857 · **Contributors**: 544
+- **Stars**: 14,164 · **Forks**: 2,499 · **Open issues**: 3,859 · **Contributors**: 545
 
 ## Totals (cumulative)
 
-- **Releases**: 259 · **Merged PRs**: 4351 · **Open PRs**: 125 · **Closed issues**: 3693 · **Open issues**: 164 · **Commits**: 11654
+- **Releases**: 259 · **Merged PRs**: 4352 · **Open PRs**: 125 · **Closed issues**: 3693 · **Open issues**: 166 · **Commits**: 11655
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 72 | 25 | 6 | 14 | 89 |
-| last60d | 2026-09-18 | 2 | 137 | 43 | 10 | 21 | 206 |
-| 90d | 2026-08-19 | 4 | 274 | 60 | 29 | 34 | 401 |
-| last180d | 2026-05-21 | 10 | 503 | 85 | 56 | 57 | 803 |
-| 360d | 2025-11-22 | 23 | 855 | 106 | 115 | 93 | 1463 |
-| last720d | 2024-11-27 | 47 | 1305 | 119 | 288 | 127 | 2465 |
+| 30d | 2026-10-20 | 2 | 68 | 22 | 6 | 16 | 91 |
+| last60d | 2026-09-20 | 2 | 136 | 43 | 10 | 23 | 208 |
+| 90d | 2026-08-21 | 4 | 265 | 58 | 27 | 36 | 403 |
+| last180d | 2026-05-23 | 10 | 494 | 85 | 56 | 59 | 805 |
+| 360d | 2025-11-24 | 23 | 855 | 106 | 115 | 95 | 1465 |
+| last720d | 2024-11-29 | 47 | 1302 | 118 | 287 | 129 | 2464 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for cert-manager lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:33:11Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:39:49Z._
